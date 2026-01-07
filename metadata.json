@@ -1,0 +1,9 @@
+{
+  "name": "Nova - AI Super-Browser",
+  "description": "A high-performance simulated AI browser that leverages the full power of Gemini 3.0 and 2.5 models for lightning-fast search, deep reasoning, and real-time web intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
